@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Merit-Based Points System',
+    //https://undraw.co/
+    Svg: require('@site/static/img/celebration.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        RiCoins employs a merit-based points system to reward developers within Riwi, promoting excellence and motivation.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'User and Role Management',
+    //https://undraw.co/
+    Svg: require('@site/static/img/goals.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        RiCoins API offers robust user and role management capabilities, facilitating precise control over access and permissions.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'CRUD Operations for Core Entities',
+    //https://undraw.co/
+    Svg: require('@site/static/img/publish.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        RiCoins API enables CRUD operations on essential entities like coins, users, roles, and modules, streamlining data management and integration tasks.
       </>
     ),
   },
