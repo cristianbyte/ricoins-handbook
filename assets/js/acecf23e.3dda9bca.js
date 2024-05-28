@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkricoins_handbook=self.webpackChunkricoins_handbook||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog"}')}}]);
