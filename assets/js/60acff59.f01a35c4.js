@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkricoins_handbook=self.webpackChunkricoins_handbook||[]).push([[5791],{4915:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/ricoins-handbook/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
