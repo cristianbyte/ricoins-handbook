@@ -4,6 +4,10 @@ sidebar_position: 1
 
 ### API Usability Documentation for Riwi
 
+> We’re here to put a dent in the universe. Otherwise why else even be here?
+>
+> — Steve Jobs
+
 #### Introduction
 Welcome to the API Usability Documentation for Riwi! This comprehensive guide is crafted to empower the frontend team at Riwi in effectively utilizing the gamification API. 
 
