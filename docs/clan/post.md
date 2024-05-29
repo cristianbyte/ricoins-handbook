@@ -21,6 +21,7 @@ This endpoint allows you to create new clans within the system. Clans are groups
 - **Usability Notes**:
   - The `urlImage` field cannot be set from the frontend at this time.
   - This endpoint is versioned for the second version of the API.
+  
 - **Example Request**:
     ```http
     http://localhost:8080/api/v1/ricoin/clans

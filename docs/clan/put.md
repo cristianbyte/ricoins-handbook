@@ -19,10 +19,10 @@ Both the clan ID in the URL and the request body must match to ensure correct up
 - **Request Body**:
     ```json
     {
-        "id": 6,
-        "name": "Newton",
-        "cohort": "2",
-        "urlImage": "urlTest"
+        "id": int,
+        "name": "String",
+        "cohort": "String",
+        "urlImage": "String"
     }
     ```
 - **Usability Notes**:
